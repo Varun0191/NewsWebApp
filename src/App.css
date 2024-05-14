@@ -1,0 +1,32 @@
+
+.text-xl.font-bold.text-black-600 a {
+    text-decoration: none; /* Remove default underline */
+    color: inherit; /* Inherit color from parent */
+    transition: color 0.3s, text-decoration 0.3s; /* Smooth transition */
+  }
+  
+  .text-xl.font-bold.text-black-600 a:hover {
+    text-decoration: underline; /* Underline on hover */
+    color: blue; 
+  }
+  
+
+
+.content-text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size: 16px; 
+    line-height: 1.6; 
+  }
+  body{
+    overflow-x: hidden;
+  }
+
+  .author {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+  }
+
+
+  
