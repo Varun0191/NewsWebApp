@@ -13,3 +13,7 @@ Search for specific news topics.
 ## Technology Used
 React and News Api
 
+## preview
+
+![](https://github.com/Varun0191/NewsWebApp/blob/main/NewsWebApp-ezgif.com-video-to-gif-converter.gif)
+
