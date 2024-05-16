@@ -15,5 +15,5 @@ React and News Api
 
 ## preview
 
-![](https://github.com/Varun0191/NewsWebApp/blob/main/NewsWebApp-ezgif.com-video-to-gif-converter.gif)
+![](NewsWebApp-ezgif.com-video-to-gif-converter.gif) 
 
